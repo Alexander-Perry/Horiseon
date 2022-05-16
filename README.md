@@ -3,6 +3,7 @@
 Webpage for Horiseon, a marketing agency
 
 Original Source: https://github.com/coding-boot-camp/urban-octo-telegram
+
 Scope: 
 Refactor codebase to:
  * follow Accessibility Standards
