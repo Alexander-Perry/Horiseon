@@ -19,7 +19,7 @@ Changes Made:
 * DIV elements updated to logical semantic elements
 * alt tags with descriptions added to images
 * CSS code condensed into a logical flow
-* ID corrected
+* id added to search-engine-optimization section
 
 Review:
 * Codebase for index.html and style.css files reviewed
