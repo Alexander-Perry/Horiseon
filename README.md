@@ -2,8 +2,8 @@
 
 Webpage for Horiseon, a marketing agency
 
-* GitHub Repo: https://github.com/Alexander-Perry/Horiseon
-* GitHub Deployment: https://alexander-perry.github.io/Horiseon/
+* GitHub Repository: https://github.com/Alexander-Perry/Horiseon
+* GitHub Pages: https://alexander-perry.github.io/Horiseon/
 * Original Source: https://github.com/coding-boot-camp/urban-octo-telegram
 
 Scope: 
