@@ -1,6 +1,8 @@
 # Horiseon
 
 Webpage for Horiseon, a marketing agency
+GitHub Repo: https://github.com/Alexander-Perry/Horiseon
+GitHub Deployment: 
 
 Original Source: https://github.com/coding-boot-camp/urban-octo-telegram
 
@@ -13,4 +15,17 @@ Refactor codebase to:
  * Heading Attributes to fall into sequential order
  * Concise and Descriptive page title
 
-Todo: Tidy up Indentation
+Changes Made: 
+* DIV elements updated to logical semantic elements
+* alt tags with descriptions added to images
+* CSS code condensed into a logical flow
+* ID corrected
+
+Review:
+* Codebase for index.html and style.css files reviewed
+* Webpage display tested and confirmed displaying as specified 
+* Page Links tested and confirmed working
+
+![Horiseon_index html](https://user-images.githubusercontent.com/102524579/169181765-cda796c0-f72c-491c-a874-7b8b8b84010b.png)
+
+
